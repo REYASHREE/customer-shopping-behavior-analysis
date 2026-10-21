@@ -88,8 +88,9 @@ The analysis aims to help retail businesses:
 customer-shopping-behavior-analysis/
 │
 ├── README.md
-├── data/
-├── sql/
-├── notebooks/
-├── powerbi/
-└── images/
+├── customer_shopping_behavior.csv
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── Customer_Shopping_Behavior_Analysis.pdf
+└── Business_Problem_Document.pdf
